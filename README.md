@@ -7,10 +7,6 @@
 
 I am a fresh graduate software engineer with a strong foundation in various programming languages, including Python, C++, JavaScript, and PHP. As a stack-agnostic developer, I have the flexibility to work with any technology, adapting quickly to the needs of each project. My diverse skill set allows me to approach software development with a broad perspective, ensuring that I can find the most effective solutions regardless of the tools or platforms involved. I am committed to continuous learning and growth in my field, and I am eager to contribute to innovative and impactful software projects.
 
-## Demo
-
-## You can view a live demo of my portfolio via [Live Demo](https://abdallah0128318.github.io/Abdallah-Qapeel/)
-
 ## Skills
 
 - HTML
